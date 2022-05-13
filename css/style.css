@@ -1,0 +1,10 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#products .card .sale-badge {
+  right: 0.5rem;
+  top: 0.5rem;
+}
+/*# sourceMappingURL=style.css.map */
